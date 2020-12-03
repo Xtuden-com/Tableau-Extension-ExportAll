@@ -8,9 +8,9 @@
     "@tableau/tableau-ui": "^3.0.0",
     "compare-versions": "^3.6.0",
     "file-saver": "^2.0.2",
-    "react": "^16.13.1",
+    "react": "^16.14.0",
     "react-app-polyfill": "^1.0.6",
-    "react-dom": "^16.13.1",
+    "react-dom": "^16.14.0",
     "react-router-dom": "^5.2.0",
     "react-scripts": "3.4.1",
     "xlsx": "^0.16.5"
